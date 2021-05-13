@@ -12,7 +12,7 @@ namespace CourseApp
 {
     public class Program
     {
-        //tuncay
+        //tuncay 4
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
